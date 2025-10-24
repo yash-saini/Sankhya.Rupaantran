@@ -4,6 +4,21 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Sankhya.Rupaantran</Title>
+    <PackageId>$(AssemblyName)</PackageId>
+    <Authors>Yash Saini</Authors>
+    <Description>A utility class to convert numeric values into Indian (Lakh, Crore) and International (Million, Billion) numbering systems.</Description>
+    <PackageIcon>sankhyaRupaantranImage.png</PackageIcon>
+    <RepositoryUrl>https://github.com/yash-saini/Sankhya.Rupaantran.git</RepositoryUrl>
+    <PackageTags>rupee;lakh;crore;million;billion;format;number;conversion;</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\yash0\Downloads\sankhyaRupaantranImage.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
