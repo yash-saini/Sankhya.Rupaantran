@@ -128,6 +128,3 @@ All string formatting methods accept an optional `format` parameter, which defau
 ## License
 
 This project is licensed. Check the repository for more info.
-
-```
-```
