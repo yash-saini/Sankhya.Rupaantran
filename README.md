@@ -1,6 +1,5 @@
 # Sankhya Rupaantran
 
-![NuGet](https://img.shields.io/nuget/v/SankhyaRupaantran?label=NuGet&logo=nuget&color=blue) 
 *(This badge will work once you publish the package to NuGet.org)*
 
 `Sankhya Rupaantran` (from Sanskrit/Hindi for "Number Transformation") is a simple, lightweight .NET utility library for converting large numbers into Indian (Lakh, Crore) and International (Million, Billion) numbering systems.
